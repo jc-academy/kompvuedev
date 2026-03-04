@@ -14,7 +14,7 @@
     <Card title="Armela Hajra" content="Trainer"/>
     <Card title="Blina Islamaj" content="Trainer"/>
     <Card title="Bujar Bushi" content="Trainer"/>
-    <Card title="Edon Zejnullahu" content="Trainer"/>
+    <Card title="Edon Abdullahu" content="Trainer"/>
     <Card title="Elena Muhaxheri" content="Trainer"/>
     <Card title="Enis Thaqi" content="Trainer"/>
     <Card title="Erolinda Shabani" content="Trainer"/>
