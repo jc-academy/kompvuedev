@@ -23,7 +23,7 @@
     <Card title="Florent Sahiti" content="Trainer"/>
     <Card title="Florinda Hasani" content="Trainer"/>
   </div>
-  <Footer />
+  <Footer text="Ky text vjen nga nje prop" />
 </template>
 
 <style>

@@ -1,12 +1,15 @@
 <template>
   <footer class="footer">
-    <p>© 2026 My Vue App</p>
+    <p>{{ text }}</p>
   </footer>
 </template>
 
 <script>
 export default {
-  name: "Footer"
+  name: "Footer",
+  props: {
+    text: String
+  }
 }
 </script>
 
